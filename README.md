@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Landon! 👋
 
-<!--
-**landongnunez/landongnunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Global Business** student at the **University of South Florida (Tampa)** I study in how data science intersects with international business operations.
 
-Here are some ideas to get you started:
+### 🎓 Academic Focus
+* **Major:** Global Business
+* **Interests:** Data Analysis, Art History, and Organizational Communication
+* **Current Coursework:** Python for Business, Calculus, and Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+* **Languages:** Python (Pandas, Data Manipulation)
+* **Tools:** GitHub, Microsoft Excel, Google Analytics
+* **Languages:** English, Spanish (Intermediate)
+
+### 🎯 Career Goals
+I aim to pursue a career in business analytics or international consultancy, using data-driven strategies to solve complex global challenges.
+
+
+*“Art is the signature of civilization.” — Exploring the intersection of Renaissance history and modern data.*
